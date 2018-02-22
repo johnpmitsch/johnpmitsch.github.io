@@ -15,6 +15,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+span > a >img.app-store-button {
+  max-width: 140px;
+}
+span.app-store-container {
+  width: 150px;
+  margin: auto;
+}
 h1,
 h2,
 h3,
